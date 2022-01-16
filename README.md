@@ -13,4 +13,4 @@ In the first test method I have verified the Account registration for the new us
 
 An important thing to be noted in this method is that we have to use new email id each time we run the test cases otherwise the test will fail as the provided email ID would have been already registered.
 
-So whenever running the test case please provide new email id in field called 'email' in Configuration.properties in Configs folder
+So whenever running the test case please provide new email id in field called 'email' in Configuration.properties file in Configs folder
