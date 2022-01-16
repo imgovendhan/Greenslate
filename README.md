@@ -27,7 +27,7 @@ So whenever running the test case please provide new email id in field called 'e
 
 
 
-Testcase Number: TC_01
+Testcase Number: TC_REG_01
 
 Testcase Objective: Register a new user in the demo portal
 
@@ -40,7 +40,7 @@ Steps:
 Expected Result:
 Account should be registered and message stating "Your Account has been created" should be available.
 
-Actual Result: <After Execution>
+Actual Result: <-After Execution-see the results ->
 
 Priority: High
 
@@ -49,7 +49,7 @@ Priority: High
 I have verified whether the item has been added to the cart or not, if the item is added to cart it will print "Verified the search item has been added to the cart".
 If not then we would get an exception thrown.
 
-Testcase Number: TC_02
+Testcase Number: TC_Cart_02
 
 Testcase Objective: Check if the selected product is added in the cart
 
@@ -63,7 +63,7 @@ Expected Result:
 If the item is added in the cart, there will "Verified the search item has been added to the cart" message will be displayed. 
 If the item is not present, Exception would be thrown.
 
-Actual Result: <After Execution>
+Actual Result: <-After Execution-see the results->
 
 Priority: High
 
@@ -71,7 +71,7 @@ Priority: High
 
 I have verified whether currency change is displayed on the screen when changing the currency from USD to EUR, if it changes then we would get a message "Currency has changed" if not we will get "Currency didn't change"
 
-Testcase Number: TC_03
+Testcase Number: TC_CUR_03
 
 Testcase Objective: 
 Steps:
@@ -81,7 +81,7 @@ Steps:
 Expected Result:
 Changed Currency should be available in the charges field.
 
-Actual Result: <After Execution>
+Actual Result: <-After Execution-see the results->
 
 Priority: High
 
