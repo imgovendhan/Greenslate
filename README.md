@@ -49,7 +49,7 @@ Priority: High
 I have verified whether the item has been added to the cart or not, if the item is added to cart it will print "Verified the search item has been added to the cart".
 If not then we would get an exception thrown.
 
-Testcase Number: TC_Cart_02
+Testcase Number: TC_CART_02
 
 Testcase Objective: Check if the selected product is added in the cart
 
