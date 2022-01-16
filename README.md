@@ -8,7 +8,7 @@ This automation program will run the web app https://demo.opencart.com/ to verif
 This is done in Junit using POM 
 
 # Please follow the following steps in order to execute the test cases:
-1. Download and extract the file greenslate.rar
+1. Download the file greenslate.rar from the repository
 2. Extract the files from greenslate.rar 
 3. Import the greenslate folder to your IDE and execute the test cases. 
 
