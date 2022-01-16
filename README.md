@@ -10,7 +10,7 @@ This is done in Junit using POM
 # Please follow the following steps in order to execute the test cases:
 1. Download and extract the file greenslate.rar
 2. Extract the files from greenslate.rar 
-3. Import the greenslate folder to your ide and execute the test cases. 
+3. Import the greenslate folder to your IDE and execute the test cases. 
 
 I have used three test methods in my testcases.java
 
