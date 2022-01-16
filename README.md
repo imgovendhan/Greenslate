@@ -1,1 +1,1 @@
-# Greenslate
+# GreenSlate Coding Challenge
